@@ -1,0 +1,9 @@
+StationName,StationLocation,DateTime,RecordId,RoadSurfaceTemperature,AirTemperature
+AlbroPlaceAirportWay,"{'type': 'Point', 'coordinates': [-122.314114, 47.547426]}",2020-06-07T00:25:00.000,830958,12.78,28.59
+AlbroPlaceAirportWay,"{'type': 'Point', 'coordinates': [-122.314114, 47.547426]}",2020-06-07T00:26:00.000,830959,12.8,28.53
+AlbroPlaceAirportWay,"{'type': 'Point', 'coordinates': [-122.314114, 47.547426]}",2020-06-07T00:27:00.000,830960,12.81,28.54
+AlbroPlaceAirportWay,"{'type': 'Point', 'coordinates': [-122.314114, 47.547426]}",2020-06-07T00:28:00.000,830961,12.82,28.7
+AlbroPlaceAirportWay,"{'type': 'Point', 'coordinates': [-122.314114, 47.547426]}",2020-06-07T00:29:00.000,830962,12.84,28.79
+AlbroPlaceAirportWay,"{'type': 'Point', 'coordinates': [-122.314114, 47.547426]}",2020-06-07T00:30:00.000,830963,12.85,28.76
+AuroraBridge,"{'type': 'Point', 'coordinates': [-122.347278, 47.643174]}",2020-06-07T00:16:00.000,3902970,65.08,53.15
+AuroraBridge,"{'type': 'Point', 'coordinates': [-122.347278, 47.643174]}",2020-06-07T00:17:00.000,3902971,65.07,53.15
