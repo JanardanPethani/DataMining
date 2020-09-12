@@ -3,7 +3,7 @@ import math
 import pandas as pd
 import numpy as np
 
-main_df = pd.read_csv("dataSet.csv")
+main_df = pd.read_csv("cinema.csv")
 uniqueValues = main_df.iloc[1:, -1].unique()
 attributes = main_df.columns[1:-1]
 

@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import math
 
-maindf = pd.read_csv('data.csv')
+maindf = pd.read_csv('cinema.csv')
 mainAttributes = maindf.columns[0:-1]
 last = maindf.columns[-1]
 

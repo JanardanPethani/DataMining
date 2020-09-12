@@ -1,0 +1,15 @@
+bp,fever,diabetes,vomit,suffering
+high,high,yes,no,no
+high,high,yes,yes,no
+low,high,yes,no,yes
+normal,mild,yes,no,yes
+normal,no fever,no,no,yes
+normal,no fever,no,yes,no
+low,no fever,no,yes,yes
+high,mild,yes,no,no
+high,no fever,no,no,yes
+normal,mild,no,no,yes
+high,mild,no,yes,yes
+low,mild,yes,yes,yes
+low,high,no,no,yes
+normal,mild,yes,yes,no
